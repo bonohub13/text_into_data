@@ -5,3 +5,6 @@ this is for the data file in CIT! So, the explanations will be in Japanese!
 ###### ＝＝＝＝＝　使い方　＝＝＝＝＝
 import extract_dataをした後にextract_data関数にデータを抽出したいテキストファイルのディレクトリを入力する。  
 返り値としては、list型のデータが返されます。使ってね！
+
+###### ＝＝＝＝＝ 追記　＝＝＝＝＝
+返り値を単語とそのフレーム毎の数値にしておきました。
