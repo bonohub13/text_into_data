@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import pandas as pd
-
 cpdef list extract_data(str data_name):
     cdef str data_str = ''
     with open(data_name, 'r') as data:
